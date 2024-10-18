@@ -3,4 +3,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Daniel Pérez-Morera"
 description: "Personal Portfolio"
-relative_url: https://github.com/daperez03/daperez03/edit/main/_includes/favicon.ico
+url: "https://daperez03.github.io/daperez03/"
+baseurl: "/daperez03"
+author: "Daniel Pérez Morera"
+email: "daniel.perezmorera@hotmail.com"
+
+
