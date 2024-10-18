@@ -60,6 +60,5 @@
 - **Phone**: [+506 84867791](tel:+50684867791)
 - **Email**: [daniel.perezmorera@hotmail.com](mailto:daniel.perezmorera@hotmail.com)
 - **LinkedIn**: [linkedin.com/in/daperez01](https://linkedin.com/in/daperez01)
-- **GitHub**: [github.com/daperez03](https://github.com/daperez03)
 
 Thanks for visiting my profile! 🚀
