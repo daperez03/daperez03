@@ -53,7 +53,7 @@
 - [C# (Basic)](https://www.hackerrank.com/certificates/0b690998f568) – HackerRank, Sep. 2024
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/records/VS578IRRS3C8) – Google, Oct. 2024
 
-## 📫 Contact
+# 📫 Contact
 
 - [**Email**](mailto:daniel.perezmorera@hotmail.com)
 - [**LinkedIn**](https://linkedin.com/in/daperez01)
