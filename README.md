@@ -45,12 +45,15 @@
 
 ## 🎓 Certifications
 
-- Oracle Cloud Infrastructure 2023 Certified Foundations Associate – Jul. 2024
-- SQL (Advanced) – HackerRank, Oct. 2024
-- Java (Basic) – HackerRank, Oct. 2024
-- Python (Basic) – HackerRank, Oct. 2024
-- C# (Basic) – HackerRank, Sep. 2024
-- Introduction to Git and GitHub – Google, Oct. 2024
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF9E38EFC05B3BAF2C4B6943E3E57DA5797B8CBCF1C539B75D0A3A999459B47) – Jul. 2024
+- [Software Engineer Intern](https://www.hackerrank.com/certificates/3c4c8480500a) – HackerRank, Oct. 2024
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/4208d0707304) – HackerRank, Oct. 2024
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/2ec29efde95c) – HackerRank, Oct. 2024
+- [SQL (Basic)](https://www.hackerrank.com/certificates/40544a4f7b8b) – HackerRank, Oct. 2024
+- [Java (Basic)](https://www.hackerrank.com/certificates/480131d566d6) – HackerRank, Oct. 2024
+- [Python (Basic)](https://www.hackerrank.com/certificates/c2ddfd45b993) – HackerRank, Oct. 2024
+- [C# (Basic)](https://www.hackerrank.com/certificates/0b690998f568) – HackerRank, Sep. 2024
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/records/VS578IRRS3C8) – Google, Oct. 2024
 
 ## 📫 Contact
 
