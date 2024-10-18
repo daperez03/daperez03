@@ -60,4 +60,4 @@ Hi! I'm Daniel Pérez Morera, a Computer Science student at the University of Co
 - [**LinkedIn**](https://linkedin.com/in/daperez01)
 - [**GitHub**](https://github.com/dapErez03)
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile!
