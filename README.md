@@ -7,7 +7,7 @@ Hi! I'm Daniel Pérez Morera, a Computer Science student at the University of Co
   April 2021 – December 2024
 
 - **English Language Studies**  
-  University of Costa Rica, San Pedro, Montes de Oca
+  University of Costa Rica, San Pedro, Montes de Oca  
   July 2023 – December 2024
 
 # Experience
