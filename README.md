@@ -1,7 +1,6 @@
 👋 Hi! I'm Daniel Pérez Morera, a Computer Science student at the University of Costa Rica. I'm currently specializing in software development with experience in Python, C#, and VR, as well as database optimization and cloud solutions. I'm passionate about programming and always eager to learn new technologies.
 
-# 📚 Education
-* * *
+# Education
 
 - **Bachelor of Computer Science**  
   University of Costa Rica, San Pedro, Montes de Oca  
@@ -11,8 +10,7 @@
   University of Costa Rica, San Pedro, Montes de Oca
   July 2023 – December 2024
 
-# 💼 Experience
-* * *
+# Experience
 
 - **Undergraduate Teacher Assistant**  
   University of Costa Rica  
@@ -35,8 +33,7 @@
   - Developed immersive VR applications using Unity, enhancing user engagement and experience.
   - Managed and optimized MongoDB databases to support VR application requirements.
 
-# 💻 Technical Skills
-* * *
+# Technical Skills
 
 - **Languages**: Java, Python, C#, SQL, C/C++, Assembly
 - **Frameworks**: ASP.NET Core, Blazor, Unity
@@ -44,8 +41,8 @@
 - **Libraries**: SQLAlchemy, NumPy, Matplotlib, NUnit, Entity Framework Core
 - **Databases**: MongoDB, Oracle, MySQL, MariaDB, SQLServer
 
-# 🎓 Certifications
-* * *
+# Certifications
+
 
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF9E38EFC05B3BAF2C4B6943E3E57DA5797B8CBCF1C539B75D0A3A999459B47) – Oracle University, Jul. 2024
 - [Software Engineer Intern](https://www.hackerrank.com/certificates/3c4c8480500a) – HackerRank, Oct. 2024
@@ -57,8 +54,7 @@
 - [C# (Basic)](https://www.hackerrank.com/certificates/0b690998f568) – HackerRank, Sep. 2024
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/records/VS578IRRS3C8) – Google, Oct. 2024
 
-# 📫 Contact
-* * *
+# Contact
 
 - [**Email**](mailto:daniel.perezmorera@hotmail.com)
 - [**LinkedIn**](https://linkedin.com/in/daperez01)
