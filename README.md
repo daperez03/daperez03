@@ -45,7 +45,7 @@
 
 ## 🎓 Certifications
 
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF9E38EFC05B3BAF2C4B6943E3E57DA5797B8CBCF1C539B75D0A3A999459B47) – Jul. 2024
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BCF9E38EFC05B3BAF2C4B6943E3E57DA5797B8CBCF1C539B75D0A3A999459B47) – Oracle University, Jul. 2024
 - [Software Engineer Intern](https://www.hackerrank.com/certificates/3c4c8480500a) – HackerRank, Oct. 2024
 - [SQL (Advanced)](https://www.hackerrank.com/certificates/4208d0707304) – HackerRank, Oct. 2024
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/2ec29efde95c) – HackerRank, Oct. 2024
