@@ -1,4 +1,4 @@
-👋 Hi! I'm Daniel Pérez Morera, a Computer Science student at the University of Costa Rica. I'm currently specializing in software development with experience in Python, C#, and VR, as well as database optimization and cloud solutions. I'm passionate about programming and always eager to learn new technologies.
+Hi! I'm Daniel Pérez Morera, a Computer Science student at the University of Costa Rica. I'm currently specializing in software development with experience in Python, C#, and VR, as well as database optimization and cloud solutions. I'm passionate about programming and always eager to learn new technologies.
 
 # Education
 
