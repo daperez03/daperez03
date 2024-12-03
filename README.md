@@ -45,17 +45,17 @@ I am a **junior software engineer** with a competitive mindset and a high adapta
 
 ### **Highlighted Projects**
 
-#### **[City VR (CITIC)](https://github.com/your-username/city-vr)**  
+#### **[City VR (CITIC)](./Proyects/CityVR.md)**  
 *March 2024 – Dic 2024*  
 - **Virtual Reality** project simulating code analysis in a virtual city using **Unity**.  
 - Integrated **heatmaps** and graphical representations of code structures using metrics such as building height and size.
 
-#### **[Provisioner (Nube Académica Computacional)](https://github.com/your-username/provisioner)**  
+#### **[Provisioner (Nube Académica Computacional)](./Proyects/Provisioner.md)**  
 *March 2023 – Dic 2024*  
 - Developed a platform to integrate **Apache VCL** and **IPA** for virtual machine provisioning for university students.  
 - Implemented security measures, resilience, and auditing in resource provisioning processes.
 
-#### **[E-Commerce FIDO2 Research](https://github.com/your-username/fido2-ecommerce)**  
+#### **[E-Commerce FIDO2 Research](https://github.com/daperez03/Marketplace/)**  
 *Jul 2024 – Dic 2024*  
 - Research on implementing **FIDO2** authentication for an **e-commerce** platform with biometric and hardware authentication such as **YubiKey**.
 
